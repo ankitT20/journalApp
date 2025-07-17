@@ -145,3 +145,4 @@ Admin JWT is required for ADMIN API:
 > | 47 | [OAuth2 in Spring Boot \| How to Add Google Login in Spring Boot \| Complete Tutorial](https://www.youtube.com/watch?v=cRiqZ0j1gEM) |
 
 # ‎
+![ankit up railway app_journal_swagger-ui_index html](https://github.com/user-attachments/assets/1ff2ef88-b617-4f1d-9e21-0137d6b94905)
